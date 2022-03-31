@@ -1,7 +1,6 @@
-<div align='center>
+
         
-![Cover](https://media-exp1.licdn.com/dms/image/C4D16AQHkwNa6x33UbA/profile-displaybackgroundimage-shrink_200_800/0/1647468437761?e=1654128000&v=beta&t=j9ZZuCwpjaPKcnXXPXl3At3voL6RsLsTRMNf3_xVq_g)    
-</div>
+![Cover](https://media-exp1.licdn.com/dms/image/C4D16AQHkwNa6x33UbA/profile-displaybackgroundimage-shrink_200_800/0/1647468437761?e=1654128000&v=beta&t=j9ZZuCwpjaPKcnXXPXl3At3voL6RsLsTRMNf3_xVq_g)  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <!--
