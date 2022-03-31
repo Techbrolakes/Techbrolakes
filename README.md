@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
 
 <!--
 **Lekan1/Lekan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
