@@ -3,6 +3,8 @@
 ![Cover](https://media-exp1.licdn.com/dms/image/C4D16AQHkwNa6x33UbA/profile-displaybackgroundimage-shrink_200_800/0/1647468437761?e=1654128000&v=beta&t=j9ZZuCwpjaPKcnXXPXl3At3voL6RsLsTRMNf3_xVq_g)  
 <p><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+## OLAMILEKAN DARAMOLA
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.lekandar11@gmail.com)](mailto:contato.lekandar11@gmail.com)
 <!--
 **Lekan1/Lekan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
