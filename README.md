@@ -5,13 +5,14 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b align="center"></b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Leah and I'm from Florida
-- 🔭 I’m a software engineer with a background in mathematics.
+- My name's Lekan and I'm from Lagos, Nigeria.
+- 🔭 React Engineer with over 2 years of experience building React-based front-end web applications..
 - 🌱 I’m passionate about full stack web development, and educational websites and applications.
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Websites, Apps, and Math.
+- 💬 Ask me about Websites, Apps, and Design.
 
-<p>With my degree in mathematics and experience in teaching, I was always looking for solutions to help students learn more effectively. Throughout teaching, I saw students struggle with learning because the tools we had were simply not successful in bridging the educational gap for students. I felt called to pick up Software Engineering with the goal of helping students learn more efficiently and fell in love with using tech to solve problems.
+<p>React Engineer with over 2 years of experience building React-based front-end web applications. I enjoy creating and designing things that live on the internet.
+ I am looking forward to working in a remote, competitive, and demanding atmosphere at this stage in my career.
 </ p>
 
 
