@@ -21,3 +21,6 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lekan1&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lekan1&theme=dark)](https://git.io/streak-stats)
+
