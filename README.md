@@ -87,8 +87,7 @@ https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-
 </p>
 <p><strong>JavaScript, HTML5, CSS3</strong> - Completed for a hackathon, this website is not only responsive and fully accessible. It also includes calculators to accurately estimate how much money is in your 401k or 403b account.</p>
 </div>
-  <h3 align="center" color="white">Above the Horizon</h2>![Screenshot 2022-05-24 192030](https://user-images.githubusercontent.com/45468437/170121084-4a48adb0-754c-4949-9fd6-af3a6fa19fac.png)
-
+  <h3 align="center" color="white">Above the Horizon</h2>
 <div align="center" >  
 <a href='https://leahthompson01.github.io/UpdatedSpace/index.html'>
 </a>
@@ -128,6 +127,6 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
 
 **I am Into ,**
 
-**Web Design ,   Responsive Design ,   and EdTech Applications*
+**Web Design ,   Responsive Design ,   and EdTech Applications**
 
 <br />
