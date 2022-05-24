@@ -1,4 +1,4 @@
-![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://user-images.githubusercontent.com/97814431/168457214-e9e85f76-04b1-4c2d-892f-b72bfdf635a6.png)
+![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://media-exp1.licdn.com/dms/image/C4D16AQH2E2aiXtWsng/profile-displaybackgroundimage-shrink_200_800/0/1652602521007?e=1658966400&v=beta&t=t1nFMFzw59hyLyLJmScfFUS4gtKvuBHGESKSLiAbCKM)
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Olamilekan Daramola</h1> 
 
