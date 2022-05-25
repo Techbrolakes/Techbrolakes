@@ -31,5 +31,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lekan1&langs_count=5&theme=tokyonight)]()
 
-#### Github Stats 😁
-![Github stats](https://github-readme-stats.vercel.app/api?username=lekan1&count_private=true&theme=dark&hide=contribs,issues)
+#### Profile Visits 🙈
+
+![visitors](https://komarev.com/ghpvc/?username=lekan1)
