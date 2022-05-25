@@ -17,12 +17,12 @@
 
 
 <h3>Languages and Tools:</h3>
-<p>
+
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) 
 ![Typescript Badge](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 ![NodeJS Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-</p>
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lekan1&count_private=true&theme=tokyonight&showicons=true)]()
@@ -30,3 +30,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lekan1&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lekan1&langs_count=5&theme=tokyonight)]()
+
+#### Github Stats 😁
+![Github stats](https://github-readme-stats.vercel.app/api?username=lekan1&count_private=true&theme=dark&hide=contribs,issues)
