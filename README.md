@@ -22,6 +22,7 @@
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) 
 ![Typescript Badge](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 ![NodeJS Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 
 
