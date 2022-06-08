@@ -30,7 +30,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lekan1&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lekan1&langs_count=5&theme=tokyonight)]()
+
 
 #### Profile Visits 🙈
 
