@@ -4,8 +4,12 @@
 Hi 👋,I'm Lekan
 ===============================
 
-Software Engineer
+Software Developer who uses the MERN STACK
 ------------------
+
+<p>React Engineer with over 2 years of experience building React-based front-end web applications. I enjoy creating and designing things that live on the internet.
+ I am looking forward to working in a remote, competitive, and demanding atmosphere at this stage in my career.
+</ p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b></b> <br>
 - :sunglasses: My name's Lekan and I'm from Lagos, Nigeria.
@@ -14,9 +18,7 @@ Software Engineer
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Websites, Apps, and Design.
 
-<p>React Engineer with over 2 years of experience building React-based front-end web applications. I enjoy creating and designing things that live on the internet.
- I am looking forward to working in a remote, competitive, and demanding atmosphere at this stage in my career.
-</ p>
+
 
 
 <h3>Languages and Tools:</h3>
