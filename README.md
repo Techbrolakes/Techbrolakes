@@ -29,7 +29,7 @@ Software Developer who uses the MERN STACK
 ![NodeJS Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
-
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lekan1&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
 <b>My GitHub Stats</b>
 
