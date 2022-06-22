@@ -29,7 +29,7 @@ Software Developer who uses the MERN STACK
 ![NodeJS Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lekan1&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+
 
 <b>My GitHub Stats</b>
 
@@ -41,6 +41,8 @@ Software Developer who uses the MERN STACK
 
 <a href="https://github.com/benrobo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekan1&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lekan1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 #### Profile Visits 🙈
