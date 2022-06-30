@@ -1,5 +1,4 @@
-![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://media-exp1.licdn.com/dms/image/C4D16AQH2E2aiXtWsng/profile-displaybackgroundimage-shrink_200_800/0/1652602521007?e=1658966400&v=beta&t=t1nFMFzw59hyLyLJmScfFUS4gtKvuBHGESKSLiAbCKM)
-
+<p align="center"><img src="https://raw.githubusercontent.com/Iamsheye/Iamsheye/master/cover-sheye.png"></p>
 
 Hi 👋
 ===============================
