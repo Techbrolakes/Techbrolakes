@@ -28,7 +28,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lekan1"><img src="https://github-readme-stats.vercel.app/api?username=Techbrolakes&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Lekan's GitHub stats" /></a>
+<a align='center' href="http://www.github.com/lekan1"><img src="https://github-readme-stats.vercel.app/api?username=Techbrolakes&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Lekan's GitHub stats" /></a>
 
 <a href="http://www.github.com/lekan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Techbrolakes&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
