@@ -1,7 +1,4 @@
-<p align="center">
-![lekan](https://user-images.githubusercontent.com/45468437/176621688-aab30e49-1b5b-4838-92a2-7ec5e897b027.png)
-
-</p>
+<p align="center"> <img src ="https://user-images.githubusercontent.com/45468437/176621688-aab30e49-1b5b-4838-92a2-7ec5e897b027.png" /></p>
 
 Hi 👋
 ===============================
