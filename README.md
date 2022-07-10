@@ -11,7 +11,6 @@
 - 🔭 React Engineer with over 2 years of experience building React-based front-end web applications..
 - 🌱 I’m passionate about full stack web development, and educational websites and applications.
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Websites, Apps, and Design.
 
 
 
