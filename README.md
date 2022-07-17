@@ -31,7 +31,7 @@
 
 <a href="http://www.github.com/lekan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Techbrolakes&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="http://www.github.com/lekan1"><img src="https://activity-graph.herokuapp.com/graph?username=Techbrolakes&bg_color=000000&color=ffffff&line=ffffff&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/lekan1"><img src="https://activity-graph.herokuapp.com/graph?username=Techbrolakes&bg_color=000000&color=ffffff&line=ffffff&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commit Graph" /></a>
 
 
 
