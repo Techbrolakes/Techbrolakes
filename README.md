@@ -2,8 +2,7 @@
 
 <h1 align="center">Welcome To My Github Profile</h1>
 
-<p align='center'>React Engineer with over 2 years of experience building React-based front-end web applications. I enjoy creating and designing things that live on the internet.
- I am looking forward to working in a remote, competitive, and demanding atmosphere at this stage in my career.
+<p align='center'>Life Long Learner and Software Engineer passionate about building creative, efficient, and scalable solutions ranging from small to large businesses.
 </ p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b></b> <br>
