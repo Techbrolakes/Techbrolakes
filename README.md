@@ -26,7 +26,7 @@
 <tr>
  <td>
   <p align='center'>
-<a align='center' href="http://www.github.com/lekan1"><img src="https://github-readme-stats.vercel.app/api?username=Techbrolakes&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Lekan's GitHub stat" /></a>
+<a align='center' href="http://www.github.com/lekan1"><img src="https://github-readme-stats.vercel.app/api?username=Techbrolakes&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Lekan's GitHub stats" /></a>
 </p>
  </td>
 
