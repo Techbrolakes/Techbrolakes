@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome To My Github Profile</h1>
 
-<p>Life Long Learner and Software Engineer passionate about building creative, efficient, and scalable solutions ranging from small to large businesses..
+<p>Life Long Learner and Software Engineer passionate about building creative, efficient, and scalable solutions ranging from small to large businesses.
 </ p>
 
 
