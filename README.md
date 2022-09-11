@@ -45,7 +45,7 @@
 
 
 
-<a href="http://www.github.com/lekan1"><img src="https://activity-graph.herokuapp.com/graph?username=Techbrolakes&bg_color=000000&color=ffffff&line=ffffff&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commit Graph" /></a>
+<a href="http://www.github.com/Techbrolakes"><img src="https://activity-graph.herokuapp.com/graph?username=techbrolakes&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
