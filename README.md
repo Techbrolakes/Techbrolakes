@@ -42,7 +42,7 @@
 
 <a href="http://www.github.com/lekan1"><img src="https://activity-graph.herokuapp.com/graph?username=Techbrolakes&bg_color=000000&color=ffffff&line=ffffff&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commit Graph" /></a>
 
-<a href="https://github.com/Techbrolakes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benrobo&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Techbrolakes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbrolakes&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
