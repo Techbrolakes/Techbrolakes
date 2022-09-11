@@ -2,13 +2,13 @@
 
 <h1 align="center">Welcome To My Github Profile</h1>
 
-<p>Life Long Learner and Software Engineer passionate about building creative, efficient, and scalable solutions ranging from small to large businesses.
+<p>Life Long Learner and Software Engineer passionate about building creative, efficient, and scalable solutions ranging from small to large businesses. I enjoy researching modern technologies and finest approach to work out problems and i can work with teams, solo or as the case may be with limited to no guidance.
 </ p>
 
 
 
 
-<div align='center'>
+<div>
  <h3>Languages and Tools:</h3>
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
