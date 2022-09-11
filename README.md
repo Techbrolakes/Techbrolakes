@@ -1,4 +1,4 @@
-<p align="center"> <img src ="https://images.pexels.com/photos/6424589/pexels-photo-6424589.jpeg?cs=srgb&dl=pexels-nemuel-sereti-6424589.jpg&fm=jpg" /></p>
+<p align="center"> <img src ="https://images.pexels.com/photos/6424589/pexels-photo-6424589.jpeg?cs=srgb&dl=pexels-nemuel-sereti-6424589.jpg&fm=jpg" width='300px' /></p>
 
 <h1 align="center">Welcome To My Github Profile</h1>
 
