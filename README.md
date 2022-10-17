@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome To My Github Profile</h1>
 
-<p>Life Long Learner and Software Engineer passionate about building creative, efficient, and scalable solutions ranging from small to large businesses. I enjoy researching modern technologies and finest approach to work out problems and i can work with teams, solo or as the case may be with limited to no guidance...
+<p>Life Long Learner and Software Engineer passionate about building creative, efficient, and scalable solutions ranging from small to large businesses. I enjoy researching modern technologies and finest approach to work out problems and i can work with teams, solo or as the case may be with limited to no guidance.....
 </ p>
 
 
