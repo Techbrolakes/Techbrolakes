@@ -58,7 +58,7 @@
 
 
 <div align='center'>
- <h3> Profile Visits 🙈 </h3>
+ <h3> Profile Visit 🙈 </h3>
 
 ![visitors](https://komarev.com/ghpvc/?username=Techbrolakes)
 </div>
