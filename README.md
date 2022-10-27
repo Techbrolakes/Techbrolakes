@@ -38,9 +38,7 @@
 
  </td>
 
-<td>
-  <a href="https://github.com/Techbrolakes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbrolakes&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Language" /></a>
- </td>
+
 
 </tr>
 </table>
