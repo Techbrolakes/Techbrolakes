@@ -1,5 +1,4 @@
 
-![pexels-antonio-batinić-4164418](https://user-images.githubusercontent.com/45468437/189534330-cac6975f-1872-4efc-876e-1b30a403e652.jpg)
 
 
 <h1 align="center">Welcome To My Github Profile</h1>
