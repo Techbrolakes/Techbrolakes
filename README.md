@@ -47,7 +47,7 @@
 
 
 
-<a href="http://www.github.com/Techbrolakes"><img src="https://activity-graph.herokuapp.com/graph?username=techbrolakes&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="My GitHub Commits Graph" /></a>
+[![](https://raw.githubusercontent.com/Techbrolakes/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
