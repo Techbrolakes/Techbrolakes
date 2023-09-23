@@ -4,7 +4,7 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 
 <p>
- As a seasoned Software Engineer, I have extensive experience designing and building efficient, scalable solutions for businesses of all sizes. My passion for lifelong learning drives me to stay up-to-date with modern technologies and the latest developments in software engineering. I am skilled in working with both teams and as an independent contributor, and have a proven ability to solve complex problems with limited guidance. I am committed to delivering top-quality work and contributing to the success of any project I am a part of...
+ As a seasoned Software Engineer, I have extensive experience designing and building efficient, scalable solutions for businesses of all sizes. My passion for lifelong learning drives me to stay up-to-date with modern technologies and the latest developments in software engineering. I am skilled in working with both teams and as an independent contributor, and have a proven ability to solve complex problems with limited guidance. I am committed to delivering top-quality work and contributing to the success of any project I am a part of..
 </ p>
 
 
