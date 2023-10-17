@@ -4,7 +4,11 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 
 <p>
- As a seasoned Software Engineer, I have extensive experience designing and building efficient, scalable solutions for businesses of all sizes. My passion for lifelong learning drives me to stay up-to-date with modern technologies and the latest developments in software engineering. I am skilled in working with both teams and as an independent contributor, and have a proven ability to solve complex problems with limited guidance. I am committed to delivering top-quality work and contributing to the success of any project I am a part of..
+As an Fullstack Engineer, my expertise extends beyond just Typescript and Golang. While I have a strong proficiency in these languages, I also excel in working with various frontend frameworks such as ReactJS, Next.js, Gatsby as well as React Native which gives me the ability to build cross platform mobile applications. These frameworks enable me to create dynamic and interactive user interfaces that deliver exceptional user experiences.
+
+Additionally, I possess the flexibility to leverage my Typescript skills in backend development using Node.js and Express. This versatility allows me to build robust and scalable backend applications to support frontend functionality.
+
+My dedication to continuously learning and staying up-to-date with the latest technologies ensures that I can adapt to new tools and frameworks as needed. I am passionate about crafting elegant and efficient solutions that meet the needs of both end-users and stakeholders.
 </ p>
 
 
