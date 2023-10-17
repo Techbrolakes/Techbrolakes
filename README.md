@@ -27,9 +27,7 @@
 <table>
 <tr>
  <td>
-<p align='center'>
-<a href="http://www.github.com/Techbrolakes"><img src="https://github-readme-stats.vercel.app/api?username=techbrolakes&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Lekan GitHub stats" /></a>
-</p>
+
  <p align='center'>
  <a href="http://www.github.com/lekan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Techbrolakes&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
  </p>
