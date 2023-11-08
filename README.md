@@ -8,7 +8,7 @@ As an Fullstack Engineer, my expertise extends beyond just Typescript and Golang
 
 Additionally, I possess the flexibility to leverage my Typescript skills in backend development using Node.js and Express. This versatility allows me to build robust and scalable backend applications to support frontend functionality
 
-My dedication to continuously learning and staying up-to-date with the latest technologies ensures that I can adapt to new tools and frameworks as needed. I am passionate about crafting elegant and efficient solutions that meet the needs of both end-users and stakeholders.
+My dedication to continuously learning and staying up-to-date with the latest technologies ensures that I can adapt to new tools and frameworks as needed. I am passionate about crafting elegant and efficient solutions that meet the needs of both end-users and stakeholders..
 
 </p>
 
