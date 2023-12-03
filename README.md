@@ -43,9 +43,7 @@ My dedication to continuously learning and staying up-to-date with the latest te
 </tr>
 </table>
 
-![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/0-profile-details.svg)
-
-
+![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 <div align='center'>
  <h3> Profile Visits 🙈 </h3>
 
