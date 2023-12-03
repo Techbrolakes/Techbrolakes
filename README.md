@@ -43,6 +43,7 @@ My dedication to continuously learning and staying up-to-date with the latest te
 </tr>
 </table>
 
+![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 
 <div align='center'>
