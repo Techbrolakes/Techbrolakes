@@ -17,10 +17,10 @@ My dedication to continuously learning and staying up-to-date with the latest te
 
 <div align="center">
  <h3>Languages and Tools</h3>
-
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) 
+ 
 ![Typescript Badge](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
+![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) 
+![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![NodeJS Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
  </div>
 
