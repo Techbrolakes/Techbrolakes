@@ -43,7 +43,18 @@ My dedication to continuously learning and staying up-to-date with the latest te
 </tr>
 </table>
 
-![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/4-productive-time.svg)
+<table>
+ <tr>
+  <td>
+   ![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+  </td>
+  <td>
+   ![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+  </td>
+ </tr>
+</table>
+
+![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 <div align='center'>
  <h3> Profile Visits 🙈 </h3>
 
