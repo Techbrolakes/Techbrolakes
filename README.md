@@ -15,7 +15,7 @@ My dedication to continuously learning and staying up-to-date with the latest te
 
 
 
-<div>
+<div align="center">
  <h3>Languages and Tools</h3>
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -31,29 +31,19 @@ My dedication to continuously learning and staying up-to-date with the latest te
 
 <table>
 <tr>
-<!--   <td>
+ <td>
   <a href="https://github.com/Techbrolakes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techbrolakes&langs_count=5&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages.." /></a>
  </td>
- -->
+
  
- <td>
- <p align='center'>
+  <td>
+ <p>
  <a href="http://www.github.com/lekan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Techbrolakes&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
  </p>
  </td>
 </tr>
 </table>
 
-
-
-[![](https://raw.githubusercontent.com/Techbrolakes/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
-
-
-<!-- [![Lekandar's github activity graphs](https://activity-graph.herokuapp.com/graph?username=lekan1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-![](./profile-3d-contrib/profile-night-green.svg)
 
 
 <div align='center'>
