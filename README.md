@@ -42,6 +42,13 @@ My dedication to continuously learning and staying up-to-date with the latest te
 
 
 ![](https://raw.githubusercontent.com/techbrolakes/techbrolakes/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
 <div align='center'>
  <h3> Profile Visits 🙈 </h3>
 
