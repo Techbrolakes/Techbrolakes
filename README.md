@@ -27,11 +27,6 @@ My dedication to continuously learning and staying up-to-date with the latest te
 
 <table>
 <tr>
- <td>
-  <a href="https://github.com/Techbrolakes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techbrolakes&langs_count=5&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages.." /></a>
- </td>
-
- 
   <td>
  <p>
  <a href="http://www.github.com/lekan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Techbrolakes&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
