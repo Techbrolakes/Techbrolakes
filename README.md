@@ -1,11 +1,11 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 
 <p>
-As an Fullstack Engineer, my expertise extends beyond just Typescript and Golang. While I have a strong proficiency in these languages, I also excel in working with various frontend frameworks such as ReactJS, Next.js, Gatsby as well as React Native which gives me the ability to build cross platform mobile applications. These frameworks enable me to create dynamic and interactive user interfaces that deliver exceptional user experiences..
+As an experienced Software Engineer with 4 years of expertise, I have a strong proficiency in Typescript and a deep understanding of frontend frameworks such as ReactJS, Next.js, and React Native. These frameworks empower me to develop dynamic and interactive user interfaces, delivering exceptional user experiences across web and mobile platforms.
 
-Additionally, I possess the flexibility to leverage my Typescript skills in backend development using Node.js and Express. This versatility allows me to build robust and scalable backend applications to support frontend functionality
+Recently, I transitioned to using Flutter, a powerful framework for building cross-platform mobile applications. This shift has expanded my toolkit, allowing me to create native-quality apps for both Android and iOS platforms efficiently.
 
-My dedication to continuously learning and staying up-to-date with the latest technologies ensures that I can adapt to new tools and frameworks as needed. I am passionate about crafting elegant and efficient solutions that meet the needs of both end-users and stakeholders...
+Moreover, I am actively learning data structures and algorithms, enhancing my problem-solving skills and enabling me to build more efficient and scalable solutions in both frontend and backend development. This versatility and continuous learning drive my ability to deliver robust and innovative software solutions.
 
 </p>
 
