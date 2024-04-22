@@ -25,10 +25,7 @@ My dedication to continuously learning and staying up-to-date with the latest te
 
 <h2 align='center'>My GitHub Stats</h2>
 
-
- <p>
  <a href="http://www.github.com/lekan1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Techbrolakes&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
- </p>
 
 
 
