@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQHgkAEOsnNG-A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707487384124?e=1734566400&v=beta&t=WqBdrOjQBx76aG22G4ywTuJrhkODMIadA4_2WdaF7Ko"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
