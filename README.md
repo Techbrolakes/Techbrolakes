@@ -51,8 +51,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/techbrolakes/techbrolakes/output/snake.svg" alt="Snake animation" />
-
-###
