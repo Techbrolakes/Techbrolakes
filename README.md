@@ -45,7 +45,7 @@
   </a>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techbrolakes)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ###
 
