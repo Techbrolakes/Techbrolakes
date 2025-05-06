@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-<h4 align="left">As a Software Engineer with 5 years of experience, I have developed strong expertise in both TypeScript and JavaScript, along with extensive hands-on experience working with web and mobile frameworks such as React.js, Next.js, Node.js, React Native, and Flutter.<br><br>I have had the opportunity to contribute to both local and international projects, building full-stack applications for diverse business needs. My experience spans frontend and backend development, where I've consistently delivered efficient, scalable, and robust solutions.<br><br>In addition, I am continuously enhancing my skills in data structures and algorithms, further refining my problem-solving capabilities to build optimized solutions across the development stack. This commitment to learning and adaptability drives my ability to deliver innovative and impactful software solutions.</h4>
+<h4 align="left">Software Engineer with 5 years of experience specializing in TypeScript and JavaScript development. Proficient in modern web and mobile frameworks including React.js, Next.js, Node.js, React Native Demonstrated success delivering full-stack applications for both local and international clients, with expertise spanning frontend and backend development. Committed to continuously improving data structures and algorithms knowledge to create optimized, scalable solutions. Adaptable problem-solver focused on delivering innovative and impactful software.</h4>
 
 ## 🛠️ My Tech Stack
 
