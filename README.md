@@ -6,6 +6,14 @@
 
 <h4 align="left">As a Software Engineer with 5 years of experience, I have developed strong expertise in both TypeScript and JavaScript, along with extensive hands-on experience working with web and mobile frameworks such as React.js, Next.js, Node.js, React Native, and Flutter.<br><br>I have had the opportunity to contribute to both local and international projects, building full-stack applications for diverse business needs. My experience spans frontend and backend development, where I've consistently delivered efficient, scalable, and robust solutions.<br><br>In addition, I am continuously enhancing my skills in data structures and algorithms, further refining my problem-solving capabilities to build optimized solutions across the development stack. This commitment to learning and adaptability drives my ability to deliver innovative and impactful software solutions.</h4>
 
+## 🛠️ My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,aws,git,figma,vscode&theme=dark" alt="My Skills" />
+</div>
+
+<br />
+
 ## 🌟 My GitHub Stats
 
 <div align="center">
@@ -21,23 +29,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techbrolakes&theme=nord_dark" width="100%" alt="Activity Summary">
-</div>
-
-## 🛠️ My Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,graphql,tailwind,aws,git,figma,vscode&theme=dark" alt="My Skills" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/techbrolakes/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techbrolakes&repo=your-best-repo&theme=blueberry&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/techbrolakes/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techbrolakes&repo=your-second-best-repo&theme=blueberry&hide_border=true" alt="Project 2" />
-  </a>
 </div>
 
 ## 📬 Connect With Me
