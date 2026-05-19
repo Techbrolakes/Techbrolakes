@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Techbrolakes">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Olamilekan%20Daramola&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20Node&descAlignY=58&descSize=18&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Olamilekan%20Daramola&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20&descAlignY=58&descSize=18&animation=twinkling"
     width="100%"
     alt="banner"
   />
