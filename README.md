@@ -1,54 +1,255 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=5294E2&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Olamilekan;Software+Engineer;TypeScript+%26+JavaScript+Expert;Full-Stack+Developer" alt="Typing SVG" />
-</div>
+<!-- ─────────────────────────────  BANNER  ───────────────────────────── -->
 
-## 👨‍💻 About Me
+<a href="https://github.com/Techbrolakes">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Olamilekan%20Daramola&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20Node&descAlignY=58&descSize=18&animation=twinkling"
+    width="100%"
+    alt="banner"
+  />
+</a>
 
-<p align="left">Software Engineer with 5 years of experience specializing in TypeScript and JavaScript development. Proficient in modern web and mobile frameworks including React.js, Next.js, Node.js, React Native Demonstrated success delivering full-stack applications for both local and international clients, with expertise spanning frontend and backend development. Committed to continuously improving data structures and algorithms knowledge to create optimized, scalable solutions. Adaptable problem-solver focused on delivering innovative and impactful software.</p>
-
-## 🛠️ My Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,aws,git,figma,vscode&theme=dark" alt="My Skills" />
-</div>
-
-<br />
-
-## 🌟 My GitHub Stats
+<!-- ─────────────────────────────  TYPING  ───────────────────────────── -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techbrolakes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=techbrolakes&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <a href="https://github.com/Techbrolakes">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Building+with+TypeScript+%26+React;5%2B+years+shipping+production+software;Always+optimizing+for+humans+and+machines"
+      alt="typing animation"
+    />
+  </a>
 </div>
 
-## 📊 Daily Contributions
+<!-- ─────────────────────────────  BADGES  ───────────────────────────── -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techbrolakes&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph">
+  <img src="https://komarev.com/ghpvc/?username=techbrolakes&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/techbrolakes?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=FOLLOWERS" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/techbrolakes?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=STARS" alt="stars"/>
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────  ABOUT  ───────────────────────────── -->
+
+## 🧭 About Me
+
+```ts
+const olamilekan = {
+  role: "Software Engineer",
+  yearsOfExperience: 5,
+  stack: {
+    languages: ["TypeScript", "JavaScript", "SQL"],
+    frontend:  ["React", "Next.js", "React Native", "TanStack Query", "Tailwind"],
+    backend:   ["Node.js", "Express", "GraphQL", "REST"],
+    database:  ["PostgreSQL", "MongoDB", "Redis"],
+    cloud:     ["AWS", "Vercel", "Docker"],
+  },
+  passions: ["clean code", "scalable systems", "DX", "developer tooling"],
+  currentlyLearning: ["Rust", "Distributed Systems"],
+  funFact: "I refactor in my dreams 🌙",
+} as const;
+```
+
+<sub>📍 Open to **full-time, contract, and freelance** opportunities — local and remote.</sub>
+
+<br/>
+
+<!-- ─────────────────────────────  STACK  ───────────────────────────── -->
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,go&theme=dark" alt="languages"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,vite&theme=dark" alt="frontend"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Backend &amp; Data</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,prisma&theme=dark" alt="backend"/>
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps &amp; Tooling</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,githubactions,figma,vscode&theme=dark" alt="devops"/>
+</p>
+</details>
+
+<br/>
+
+<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=techbrolakes&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+    />
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=techbrolakes&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+      alt="GitHub stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=techbrolakes&theme=tokyonight&hide_border=true"
+    />
+    <img
+      height="170"
+      src="https://github-readme-streak-stats.herokuapp.com?user=techbrolakes&hide_border=true"
+      alt="GitHub streak"
+    />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techbrolakes&theme=nord_dark" width="100%" alt="Activity Summary">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=techbrolakes&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbrolakes&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"
+      alt="Top languages"
+    />
+  </picture>
 </div>
 
-## 📬 Connect With Me
+<br/>
+
+<!-- ─────────────────────────────  TROPHIES  ───────────────────────────── -->
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=techbrolakes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+      alt="trophies"
+    />
+  </a>
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────  ACTIVITY GRAPH  ───────────────────────────── -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=techbrolakes&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=techbrolakes&theme=minimal&hide_border=true&area=true&custom_title=Contribution+Graph"
+      width="100%"
+      alt="activity graph"
+    />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────  SUMMARY CARDS  ───────────────────────────── -->
+
+## 🗂️ Profile Summary
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techbrolakes&theme=tokyonight"
+      alt="profile details"
+    />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techbrolakes&theme=tokyonight"
+      alt="stats"
+    />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=techbrolakes&theme=tokyonight&utcOffset=1"
+      alt="productive time"
+    />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techbrolakes&theme=tokyonight"
+      alt="repos per language"
+    />
+  </a>
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────  QUOTE  ───────────────────────────── -->
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="random dev quote"
+  />
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────  CONTACT  ───────────────────────────── -->
+
+## 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lekandar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://twitter.com/lekandar_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"/>
   </a>
-  <a href="mailto:lekandar11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:lekandar11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://github.com/Techbrolakes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=techbrolakes&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+<br/>
+
+<!-- ─────────────────────────────  FOOTER  ───────────────────────────── -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling"
+  width="100%"
+  alt="footer"
+/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <sub>Crafted with care • Stats auto-update on every view</sub>
 </div>
