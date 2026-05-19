@@ -29,31 +29,6 @@
 
 <br/>
 
-<!-- ─────────────────────────────  ABOUT  ───────────────────────────── -->
-
-## 🧭 About Me
-
-```ts
-const olamilekan = {
-  role: "Software Engineer",
-  yearsOfExperience: 5,
-  stack: {
-    languages: ["TypeScript", "JavaScript", "SQL"],
-    frontend:  ["React", "Next.js", "React Native", "TanStack Query", "Tailwind"],
-    backend:   ["Node.js", "Express", "GraphQL", "REST"],
-    database:  ["PostgreSQL", "MongoDB", "Redis"],
-    cloud:     ["AWS", "Vercel", "Docker"],
-  },
-  passions: ["clean code", "scalable systems", "DX", "developer tooling"],
-  currentlyLearning: ["Rust", "Distributed Systems"],
-  funFact: "I refactor in my dreams 🌙",
-} as const;
-```
-
-<sub>📍 Open to **full-time, contract, and freelance** opportunities — local and remote.</sub>
-
-<br/>
-
 <!-- ─────────────────────────────  STACK  ───────────────────────────── -->
 
 ## 🛠️ Tech Stack
@@ -113,20 +88,6 @@ const olamilekan = {
 
 <br/>
 
-<!-- ─────────────────────────────  SUMMARY CARDS  ───────────────────────────── -->
-
-## 🗂️ Profile Summary
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techbrolakes&theme=tokyonight"
-      alt="profile details"
-    />
-  </a>
-</div>
-
-<br/>
 
 <!-- ─────────────────────────────  QUOTE  ───────────────────────────── -->
 
