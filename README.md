@@ -28,46 +28,6 @@
 </div>
 
 <br/>
-
-<!-- ─────────────────────────────  STACK  ───────────────────────────── -->
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,go&theme=dark" alt="languages"/>
-</p>
-</details>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,vite&theme=dark" alt="frontend"/>
-</p>
-</details>
-
-<details open>
-<summary><b>Backend &amp; Data</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,prisma&theme=dark" alt="backend"/>
-</p>
-</details>
-
-<details open>
-<summary><b>DevOps &amp; Tooling</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,githubactions,figma,vscode&theme=dark" alt="devops"/>
-</p>
-</details>
-
-<br/>
-
-
 <!-- ─────────────────────────────  ACTIVITY GRAPH  ───────────────────────────── -->
 
 ## 📈 Contribution Activity
