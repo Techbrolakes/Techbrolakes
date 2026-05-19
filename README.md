@@ -92,65 +92,6 @@ const olamilekan = {
 
 <br/>
 
-<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=techbrolakes&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
-    />
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=techbrolakes&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
-      alt="GitHub stats"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=techbrolakes&theme=tokyonight&hide_border=true"
-    />
-    <img
-      height="170"
-      src="https://github-readme-streak-stats.herokuapp.com?user=techbrolakes&hide_border=true"
-      alt="GitHub streak"
-    />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=techbrolakes&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbrolakes&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5"
-      alt="Top languages"
-    />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────  TROPHIES  ───────────────────────────── -->
-
-## 🏆 Trophy Case
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=techbrolakes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
-      alt="trophies"
-    />
-  </a>
-</div>
-
-<br/>
 
 <!-- ─────────────────────────────  ACTIVITY GRAPH  ───────────────────────────── -->
 
@@ -187,21 +128,6 @@ const olamilekan = {
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techbrolakes&theme=tokyonight"
       alt="stats"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=techbrolakes&theme=tokyonight&utcOffset=1"
-      alt="productive time"
-    />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techbrolakes&theme=tokyonight"
-      alt="repos per language"
     />
   </a>
 </div>
